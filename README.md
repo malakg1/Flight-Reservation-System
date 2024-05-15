@@ -15,5 +15,6 @@ Physical Diagram: Shows the detailed implementation of the database schema.
 ## Implementation
 The project is implemented primarily in C#, leveraging object-oriented principles to manage reservations efficiently. The codebase interacts with the database to handle reservation requests and updates seamlessly.
 
-## Team member:
+## Team members :
 [Nada Gaber](https://github.com/nadagaber)
+[Malak Mahmoud](https://github.com/malakjjk)
