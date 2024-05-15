@@ -19,3 +19,5 @@ The project is implemented primarily in C#, leveraging object-oriented principle
 [Nada Gaber](https://github.com/nadagaber)
 
 [Malak Mahmoud](https://github.com/malakjjk)
+
+[Malak Sherif](https://github.com/malaksherif03)
